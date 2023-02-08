@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Grey1842
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning basic c programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through shashi1842@gmail.com
